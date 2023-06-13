@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00676f06-a01d-4fed-baf7-9b5ed81fb5bb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FfpxND4gi25Rl4LKXlOLFoiAfa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sergey/djangosite&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergey\djangosite\coolsiteua\templates\women" />
+      <recent name="C:\Users\Sergey\djangosite\newapp\women\templates\women" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00676f06-a01d-4fed-baf7-9b5ed81fb5bb" name="Changes" comment="" />
+      <created>1664893237620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664893237620</updated>
+      <workItem from="1664893239038" duration="5363000" />
+      <workItem from="1665053265002" duration="17152000" />
+      <workItem from="1665406844465" duration="430000" />
+      <workItem from="1665491501723" duration="4176000" />
+      <workItem from="1665578292690" duration="12727000" />
+      <workItem from="1666012046602" duration="4256000" />
+      <workItem from="1666086984224" duration="11826000" />
+      <workItem from="1666285053992" duration="7249000" />
+      <workItem from="1666624055665" duration="696000" />
+      <workItem from="1666790637914" duration="4161000" />
+      <workItem from="1666911601230" duration="3236000" />
+      <workItem from="1667318724794" duration="1524000" />
+      <workItem from="1669131790346" duration="1283000" />
+      <workItem from="1669829469636" duration="1329000" />
+      <workItem from="1669960138101" duration="1175000" />
+      <workItem from="1670115466113" duration="3550000" />
+      <workItem from="1671650510747" duration="1314000" />
+      <workItem from="1671748727816" duration="1394000" />
+      <workItem from="1674468944222" duration="3513000" />
+      <workItem from="1674745591512" duration="1187000" />
+      <workItem from="1675813117931" duration="339000" />
+      <workItem from="1684181513628" duration="636000" />
+      <workItem from="1684268356637" duration="274000" />
+      <workItem from="1684328179187" duration="7271000" />
+      <workItem from="1684488625185" duration="1024000" />
+      <workItem from="1686143089636" duration="8405000" />
+      <workItem from="1686226044410" duration="11159000" />
+      <workItem from="1686262498394" duration="4927000" />
+      <workItem from="1686309591789" duration="8025000" />
+      <workItem from="1686566986935" duration="11196000" />
+      <workItem from="1686656607729" duration="24986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
